@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rap_critic_ai"
+version = "0.1.0"
+description = "AI-powered rap critic app by kyvyton: web interface, neural model, and Genius integration"
+authors = [
+    { name = "kyvyton" }
+]
+requires-python = ">=3.8"
+
+dependencies = [
+    "flask",
+    "numpy",
+    "librosa",
+    "lyricsgenius",
+    "torch",
+    "transformers",
+    "scikit-learn",
+    "joblib",
+    "requests",
+    "beautifulsoup4"
+]
+
+[project.scripts]
+app = "rap_critic_ai.app:main"
