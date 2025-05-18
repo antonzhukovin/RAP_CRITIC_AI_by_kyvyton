@@ -26,8 +26,8 @@
 Убедитесь, что у вас установлен Python ≥ 3.8 и [Poetry](https://python-poetry.org/):
 
 ```bash
-git clone https://github.com/antonzhukovin/rapcritic.git
-cd rapcritic
+git clone https://github.com/antonzhukovin/RAP_CRITIC_AI_by_kyvyton
+cd RAP_CRITIC_AI_by_kyvyton
 poetry install
 ```
 ### Если Poetry не установлен:
