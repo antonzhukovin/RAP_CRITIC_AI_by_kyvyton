@@ -1,5 +1,6 @@
 # RAP_CRITIC_AI_by_kyvyton 🎤🤖
-https://youtu.be/zAjkjiWMOoI?si=iTiYXIuJ-a_W_WYP
+
+[![ЛИШИЛ ФЛОМАСТЕРА РАБОТЫ | РЗТ 4o / rztAI](https://img.youtube.com/vi/zAjkjiWMOoI/0.jpg)](https://youtu.be/zAjkjiWMOoI?si=7cnfTVcgebrJRIua "ЛИШИЛ ФЛОМАСТЕРА РАБОТЫ | РЗТ 4o / rztAI")
 
 **by kyvyton**
 
@@ -29,14 +30,16 @@ git clone https://github.com/antonzhukovin/rapcritic.git
 cd rapcritic
 poetry install
 ```
-# Если Poetry не установлен:
+### Если Poetry не установлен:
+```
 pip install poetry
+```
 
 ИЛИ
 
+```
 pip3 install poetry
 ```
-
 ---
 
 ## 🖥️ Запуск
